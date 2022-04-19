@@ -11,7 +11,7 @@ class Page1 extends StatelessWidget {
                 child: Column(
               children: <Widget>[
                 new Image.asset(
-                  'assets\page1pic.png',
+                  'assets/page1pic.png',
                   height: 150,
                   width: 250,
                 ),
